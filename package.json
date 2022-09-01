@@ -1,5 +1,5 @@
 {
-  "name": "pepBoard",
+  "name": "openBoard",
   "version": "1.0.0",
   "description": "",
   "main": "express.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pep-DEV101/PepBoard.git"
+    "url": "git+https://github.com/dyanjno/OpenBoard"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pep-DEV101/PepBoard/issues"
+    "url": "https://github.com/dyanjno/OpenBoard"
   },
-  "homepage": "https://github.com/Pep-DEV101/PepBoard#readme"
+  "homepage": "https://github.com/dyanjno/OpenBoard"
 }
